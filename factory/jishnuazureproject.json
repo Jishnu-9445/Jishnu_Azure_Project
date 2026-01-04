@@ -1,0 +1,9 @@
+{
+	"name": "jishnuazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d0fd393b-3b6e-4692-9a8d-87fff58a10d0",
+		"tenantId": "532c0b1b-43aa-4006-a7db-3a111da855e7"
+	}
+}
